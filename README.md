@@ -1,2 +1,3 @@
 # KatasLaunchX
-Katas LaunchX
+Katas LaunchX Primera misión
+Autor: Irving Juanico
